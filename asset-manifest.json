@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/smallreduxproject/static/css/main.4a3c91c0.chunk.css",
+    "main.css": "/smallreduxproject/static/css/main.74ba9da0.chunk.css",
     "main.js": "/smallreduxproject/static/js/main.4361a8fc.chunk.js",
     "main.js.map": "/smallreduxproject/static/js/main.4361a8fc.chunk.js.map",
     "runtime-main.js": "/smallreduxproject/static/js/runtime-main.bb3c365d.js",
@@ -10,14 +10,14 @@
     "static/js/3.d7efe02a.chunk.js": "/smallreduxproject/static/js/3.d7efe02a.chunk.js",
     "static/js/3.d7efe02a.chunk.js.map": "/smallreduxproject/static/js/3.d7efe02a.chunk.js.map",
     "index.html": "/smallreduxproject/index.html",
-    "static/css/main.4a3c91c0.chunk.css.map": "/smallreduxproject/static/css/main.4a3c91c0.chunk.css.map",
+    "static/css/main.74ba9da0.chunk.css.map": "/smallreduxproject/static/css/main.74ba9da0.chunk.css.map",
     "static/js/2.7b844bac.chunk.js.LICENSE.txt": "/smallreduxproject/static/js/2.7b844bac.chunk.js.LICENSE.txt",
     "static/media/cart.15f0b704.jpg": "/smallreduxproject/static/media/cart.15f0b704.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bb3c365d.js",
     "static/js/2.7b844bac.chunk.js",
-    "static/css/main.4a3c91c0.chunk.css",
+    "static/css/main.74ba9da0.chunk.css",
     "static/js/main.4361a8fc.chunk.js"
   ]
 }
