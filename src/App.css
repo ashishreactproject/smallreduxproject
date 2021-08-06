@@ -12,7 +12,40 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+/* */
+@media screen and (max-width:770px) {
+  .title h2{
+    font-size: 3px;
+  }
+  
+  .add-to-cart img{
+    top: 0;
+    right: 0;
+    margin-top: 5%;
+  }
+  .cart-wrapper{
+    width: 1%;
+    border: 1px solid #ccc;
+    margin-top: 30%;
+  }
+  
+  .cart-counter {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-top: 7%;
+    z-index: 1;
+    background-color: lightskyblue;
+    padding: 7px;
+    width: 22px;
+    height: 20px;
+    border-radius: 75%;
+    color: black;
+  }
+  
+}
 
+/* */
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -58,7 +91,6 @@
   width:120px;
   padding: 14px;
   height: 70px;
-  
 }
 .cart-counter {
   position: absolute;
